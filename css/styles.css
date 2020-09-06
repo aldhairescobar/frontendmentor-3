@@ -144,6 +144,7 @@ Layout
 
 .nav-link {
   text-decoration: none;
+  color: hsl(243, 87%, 20%);
 }
 
 .nav-link:hover {
